@@ -1,3 +1,5 @@
+#2)Write an R-script to find out the factorial of the given no. using for loop.
+
 {
 findfact <- function(n){
   fact<-1

@@ -1,3 +1,5 @@
+#1)Write an R-script to generate the number series as follows using while loop- 1 4 9…………n2.
+
 {
 n<-as.integer(readline("Enter n :"))
 i<-1

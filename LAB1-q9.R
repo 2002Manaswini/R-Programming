@@ -1,3 +1,5 @@
+#9)Write an R-script to analyze whether the given year is a leap year or not?
+
 {
 year = as.integer(readline(prompt="Enter a year: "))
 

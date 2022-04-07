@@ -1,3 +1,7 @@
+#Write an R-script to design a menu driven program as follows and then evaluate any one of the operation according to your choice using switch case statement.
+#1. Area of circle, 2. Area of rectangle, 3. Area of Triangle
+
+
 {
 r<-4
 l<-5

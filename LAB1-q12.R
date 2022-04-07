@@ -1,3 +1,6 @@
+#Write an R-script to enter marks in 3 subjects and then calculate the total mark and average. 
+#Assign the grade according to the B.Tech evaluation system.
+
 {
 s1<-as.integer(readline(prompt = "Enter marks for subject 1 :"))
 s2<-as.integer(readline(prompt = "Enter marks for subject 2 :"))

@@ -1,3 +1,5 @@
+#Write an R-script to enter a 3-digits number and check whether it is palindrome no. or not?
+
 {
 n = as.integer(readline(prompt = "Enter a number :"))
 
